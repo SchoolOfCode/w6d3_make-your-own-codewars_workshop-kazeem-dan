@@ -9,3 +9,6 @@
 // (kaz, MART-WER,80) => (kMART-WER80)
 
 //👉 Write the function your CodeWarriors will start with below here:
+export function createUsername(){
+    
+}
