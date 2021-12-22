@@ -20,10 +20,6 @@
 //👉 Write the function your CodeWarriors will start with below here:
 
 export function createUsername(firstname, surname, age) {
-  const usernameFirstLetter = firstname[0].toLowerCase();
-  const usernameSurname = surname.toUpperCase();
-  const yourAge = age;
-  const username = String(usernameFirstLetter + usernameSurname + age);
-  return username
+ 
 }
 
